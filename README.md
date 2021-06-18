@@ -8,8 +8,7 @@ API Bans may occur if misused, Use at your own risk.***
 #
 
 ### BOTH PAID & FREE APIs
-
-- Why not contribute?
+###### Why not contribute?
 
 <details>
   <summary>API.C99.NL (Wide range of endpoints) [PAID & FREE]</summary>
@@ -18,8 +17,7 @@ API Bans may occur if misused, Use at your own risk.***
 </details>
 
 ### PAY-TO-USE APIs
-
-- Why not contribute?
+###### Why not contribute?
 
 <details>
   <summary>Webresolver.NL (Some decent endpoints) [PAID]</summary>
@@ -27,8 +25,7 @@ API Bans may occur if misused, Use at your own risk.***
 </details>
 
 ### FREE-TO-USE APIs
-
-- Why not contribute?
+###### Why not contribute?
 
 <details>
   <summary>HaveIBeenPwned.com [FREE]</summary>
