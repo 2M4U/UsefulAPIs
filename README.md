@@ -41,5 +41,5 @@ API Bans may occur if misused, Use at your own risk.***
   <summary>API.C99.NL (Wide range of endpoints) [PAID & FREE]</summary>
   <h5>https://api.c99.nl/</h5>
 
-</details
+</details>
 ```
