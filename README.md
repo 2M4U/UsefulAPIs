@@ -12,12 +12,12 @@ API Bans may occur if misused, Use at your own risk.***
 # APIs
 
 <details>
-  <summary>API.C99.NL (Wide range of endpoints)</summary>
+  <summary>API.C99.NL (Wide range of endpoints) [PAID & FREE]</summary>
   <h5>https://api.c99.nl/</h5>
 
 </details>
 <details>
-  <summary>Webresolver.NL (Some decent endpoints)</summary>
+  <summary>Webresolver.NL (Some decent endpoints) [PAID]</summary>
   <h5>https://webresolver.nl/</h5>
 </details>
 
@@ -26,7 +26,7 @@ API Bans may occur if misused, Use at your own risk.***
 ###### Please stick to the format when contributing, Thanks.
 ```html
 <details>
-  <summary>API.C99.NL (Wide range of endpoints)</summary>
+  <summary>API.C99.NL (Wide range of endpoints) [PAID & FREE]</summary>
   <h5>https://api.c99.nl/</h5>
 
 </details
