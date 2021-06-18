@@ -7,20 +7,20 @@ API Bans may occur if misused, Use at your own risk.***
 
 #
 
-# BOTH PAID & FREE APIs
+### BOTH PAID & FREE APIs
 <details>
   <summary>API.C99.NL (Wide range of endpoints) [PAID & FREE]</summary>
   <h5>https://api.c99.nl/</h5>
 
 </details>
 
-# PAY-TO-USE APIs
+### PAY-TO-USE APIs
 <details>
   <summary>Webresolver.NL (Some decent endpoints) [PAID]</summary>
   <h5>https://webresolver.nl/</h5>
 </details>
 
-# FREE-TO-USE APIs
+### FREE-TO-USE APIs
 
 - Why not contribute?
 
