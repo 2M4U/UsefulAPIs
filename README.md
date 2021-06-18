@@ -16,6 +16,10 @@ API Bans may occur if misused, Use at your own risk.***
   <h5>https://api.c99.nl/</h5>
 
 </details>
+<details>
+  <summary>Webresolver.NL (Some decent endpoints)</summary>
+  <h5>https://webresolver.nl/</h5>
+</details>
 
 # Contributors
 ***Contributions to this repo are welcomed***
