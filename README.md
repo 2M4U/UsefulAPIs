@@ -20,7 +20,7 @@ API Bans may occur if misused, Use at your own risk.***
 ### PAY-TO-USE APIs
 
 - Why not contribute?
-- 
+
 <details>
   <summary>Webresolver.NL (Some decent endpoints) [PAID]</summary>
   <h5>https://webresolver.nl/</h5>
