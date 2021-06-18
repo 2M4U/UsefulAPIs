@@ -35,6 +35,11 @@ API Bans may occur if misused, Use at your own risk.***
 
 # Contributors
 ***Contributions to this repo are welcomed***
+
+* **RudimentalHack** - [Twitter](https://twitter.com/RudimentalHack) | Added: c99, HIBP, Webresolver
+
+
+# Contribution Format
 ###### Please stick to the format when contributing, Thanks.
 ```html
 <details>
@@ -43,3 +48,10 @@ API Bans may occur if misused, Use at your own risk.***
 
 </details>
 ```
+
+
+
+
+# Join Our Community
+[![Join My Discord](https://cdn.discord.watch/invite/h3MVebtd9E???)](https://discord.com/invite/h3MVebtd9E)
+
