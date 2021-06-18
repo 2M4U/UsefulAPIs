@@ -12,4 +12,4 @@ API Bans may occur if misused, Use at your own risk.***
 # APIs
 
 # Contributors
-
+***Contributions to this repo are welcomed***
